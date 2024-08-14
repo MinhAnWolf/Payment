@@ -40,4 +40,9 @@ public class PaymentController {
   private String signature(String ) {
 
   }
+
+  // document
+  // https://developers.momo.vn/v3/vi/docs/payment/api/wallet/onetime#l%E1%BA%A5y-ph%C6%B0%C6%A1ng-th%E1%BB%A9c-thanh-to%C3%A1n
+  // https://github.com/momo-wallet/java/blob/master/src/main/java/com/mservice/processor/CreateOrderMoMo.java#L57
+  // https://developers.momo.vn/v2/#/docs/aiov2/
 }
