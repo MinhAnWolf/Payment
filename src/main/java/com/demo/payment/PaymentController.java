@@ -36,4 +36,8 @@ public class PaymentController {
     ResponseEntity<String> response = restTemplate.exchange(createPayment, HttpMethod.POST, request, String.class);
     return ResponseEntity.ok(response.getBody());
   }
+
+  private String signature(String ) {
+
+  }
 }
