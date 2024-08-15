@@ -7,9 +7,9 @@ EVN:
 + JDK 17
 ## API Reference
 
-#### Create payment
+#### API Create payment
 
-```http
+```
   POST http://localhost:8080/payment/momo
 ```
 
