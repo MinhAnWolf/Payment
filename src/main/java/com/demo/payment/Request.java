@@ -22,4 +22,6 @@ public class Request {
   private String requestId;
   private String extraData;
   private String signature;
+  private String lang = "vi";
+  private Integer orderExpireTime;
 }
